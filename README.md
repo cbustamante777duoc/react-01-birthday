@@ -1,0 +1,1 @@
+"# react-01-birthday"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/cbustamante777duoc/react-01-birthday.git git push -u origin main
