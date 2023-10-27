@@ -1,1 +1,7 @@
-"# react-01-birthday"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/cbustamante777duoc/react-01-birthday.git git push -u origin main
+
+# My first app using react and rook (useState)
+
+idea from [https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+
+folling tutorial from 
+https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=992s
